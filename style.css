@@ -42,7 +42,7 @@ body {
 .main-container .advice-container #advice-change {
   background-color: hsl(150, 100%, 50%);
   border: none;
-  padding: 10px;
+  padding: 16px;
   border-radius: 100%;
   position: relative;
   top: 40px;
